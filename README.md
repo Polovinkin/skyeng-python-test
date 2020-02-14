@@ -14,4 +14,4 @@ f('"Rabbit","Queen","Croquet","Flamingo"')   // ['Rabbit', 'Queen', 'Croquet', '
 f('"тройка", 7, "туз", "дама"')              // ['тройка', 7, 'туз', 'дама']
 
 ---
-Function tests different test cases, but not all of them, as I was later told, so it needs to be improved
+Функция тестирует некоторые тест-кейсы, но оказывается не все что нужно, как было потом сказано, так что требуется допиливание
